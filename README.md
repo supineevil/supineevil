@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
  -->
  
- [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/aae18055389655.59822ff82438b.gif)](https://supineevil.io)
+ [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://supineevil.io)
 
 <h1 align="center">Hi 👋, I'm Raunak Ghosh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
