@@ -36,6 +36,12 @@ Here are some ideas to get you started:
 
 ###
 
+###
+
+<img align="right" height="150" src="https://68.media.tumblr.com/cd7b6dac256a832255e9bdc1460ad147/tumblr_oebrar2T941t6t5wwo1_r1_500.gif"  />
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/raunak-ghosh-2a81591b6/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="35" alt="linkedin logo"  />
@@ -48,11 +54,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-###
 
-<img align="right" height="150" src="https://68.media.tumblr.com/cd7b6dac256a832255e9bdc1460ad147/tumblr_oebrar2T941t6t5wwo1_r1_500.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
