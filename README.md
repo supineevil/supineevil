@@ -20,6 +20,11 @@ Here are some ideas to get you started:
 
 <h2 align="left">Hi 👋! <br>My name is  Raunak Ghosh<br>I'm a Software engineer from India</h2>
 
+- 🔭 I’m currently working on self growth
+- 🌱 I’m currently learning everything
+- 💬 Ask me about Life
+- ⚡ Fun fact: I am boring
+
 ###
 
 <div align="left">
