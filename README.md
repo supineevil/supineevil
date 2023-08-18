@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=supineevil.supineevil&left_color=chartreuse"  />
+  <img src="https://profile-counter.glitch.me/supineevil/count.svg?"  />
 </div>
 
 ###
@@ -98,8 +98,5 @@ Here are some ideas to get you started:
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/supineevil/supineevil/output/snake.svg" alt="Snake animation" />
 
 ###
