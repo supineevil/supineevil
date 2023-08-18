@@ -24,6 +24,12 @@ https://profile-readme-generator.com/  -)generate new
 - 🌱 I’m currently learning everything
 - 💬 Ask me about Life
 - ⚡ Fun fact: I am boring
+###
+
+<img align="right" height="150" src="https://68.media.tumblr.com/cd7b6dac256a832255e9bdc1460ad147/tumblr_oebrar2T941t6t5wwo1_r1_500.gif"  />
+
+###
+
 
 ###
 
@@ -41,11 +47,6 @@ https://profile-readme-generator.com/  -)generate new
 
 ###
 
-###
-
-<img align="right" height="150" src="https://68.media.tumblr.com/cd7b6dac256a832255e9bdc1460ad147/tumblr_oebrar2T941t6t5wwo1_r1_500.gif"  />
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/raunak-ghosh-2a81591b6/" target="_blank">
