@@ -20,9 +20,9 @@ https://profile-readme-generator.com/  -)generate new
 
 <h2 align="left">Hi 👋! <br>My name is  Raunak Ghosh<br>I'm a Software engineer from India</h2>
 
-- 🔭 I’m currently working on self growth
-- 🌱 I’m currently learning everything
-- 💬 Ask me about Life
+- 🔭 I’m currently working on full-stack development
+- 🌱 I’m currently learning backend development
+- 💬 Ask me about coding
 - ⚡ Fun fact: I am boring
 ###
 
