@@ -42,21 +42,14 @@ https://profile-readme-generator.com/  -)generate new
 <div align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=supineevil&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=supineevil&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=chartreuse-dark&hide_border=true" height="150" alt="languages graph"  />
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=supineevil&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
   <img src="https://streak-stats.demolab.com?user=supineevil&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=supineevil&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=supineevil&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=supineevil&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=supineevil&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ###
