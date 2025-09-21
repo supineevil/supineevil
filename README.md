@@ -44,7 +44,7 @@ https://profile-readme-generator.com/  -)generate new
   <img src="https://streak-stats.demolab.com?user=supineevil&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=supineevil&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=supineevil&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 ### ✍️ Random Dev Quote
