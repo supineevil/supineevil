@@ -33,9 +33,6 @@ https://profile-readme-generator.com/  -)generate new
 
 ###
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/supineevil/count.svg?"  />
-</div>
 
 ###
 
